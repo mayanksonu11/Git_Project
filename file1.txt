@@ -1,1 +1,3 @@
 Welcome to Git
+
+Checking the diff
